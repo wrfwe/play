@@ -1,0 +1,15 @@
+<svg id="Component_265_3" data-name="Component 265 – 3" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15" height="15" viewBox="0 0 15 15">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#6ad500"/>
+      <stop offset="1" stop-color="#3b7600"/>
+    </radialGradient>
+  </defs>
+  <g id="Rectangle_1351" data-name="Rectangle 1351" stroke="#68ad24" stroke-width="1">
+    <rect width="15" height="15" rx="7.5" stroke="none"/>
+    <rect x="0.5" y="0.5" width="14" height="14" rx="7" fill="none"/>
+  </g>
+  <g id="icon_add-dec_default" transform="translate(3.594 3.596)">
+    <path id="icon_add-dec_default-2" data-name="icon_add-dec_default" d="M3.125,7.809V4.685H0V3.124H3.125V0H4.687V3.124H7.811V4.685H4.687V7.809Z" transform="translate(0 0)" fill="url(#radial-gradient)"/>
+  </g>
+</svg>
