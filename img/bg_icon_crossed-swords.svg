@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 263.852 263.852">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #00535f;
+      }
+    </style>
+  </defs>
+  <g id="bg_icon_crossed-swords" transform="translate(131.926 131.926)">
+    <g id="Group_18" data-name="Group 18" transform="translate(-131.926 -131.926)">
+      <path id="Path_183" data-name="Path 183" class="cls-1" d="M116.813,285.546l-7.85,9.314a30.633,30.633,0,0,0-37.226,4.825l65.592,65.592a30.887,30.887,0,0,0,4.827-37.228L154.7,317.477Z" transform="translate(-34.768 -138.394)"/>
+      <path id="Path_184" data-name="Path 184" class="cls-1" d="M205.014,152.255a30.674,30.674,0,0,0-15.32,4.189L57.666,0H0V57.666L156.444,189.695a30.885,30.885,0,0,0,4.844,37.19l65.592-65.592a30.714,30.714,0,0,0-21.867-9.038ZM82.73,93.661,27.561,38.491,38.491,27.561,93.661,82.73Z"/>
+      <path id="Path_185" data-name="Path 185" class="cls-1" d="M398.484,376.617l-21.867,21.867L400,421.864v24.521h46.38V400h-24.52Z" transform="translate(-182.533 -182.533)"/>
+      <path id="Path_186" data-name="Path 186" class="cls-1" d="M24.521,400H0v46.38H46.38v-24.52l23.387-23.381L47.9,376.617Z" transform="translate(0 -182.533)"/>
+      <path id="Path_187" data-name="Path 187" class="cls-1" d="M339.729,0,275.616,75.975l41.631,49.393L397.433,57.7V0ZM314.7,93.661,303.772,82.73l55.169-55.169,10.931,10.931Z" transform="translate(-133.581)"/>
+    </g>
+  </g>
+</svg>
